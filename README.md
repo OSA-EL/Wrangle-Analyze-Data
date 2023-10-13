@@ -54,5 +54,5 @@ Additionally, you may store the cleaned data in a SQLite database
 
 In the Analyzing and Visualizing Data section in your wrangle_act.ipynb Jupyter Notebook, analyze and visualize your wrangled data.
 
-- You can produce at least three (3) insights and one (1) visualization.
+- You can produce more than three insights and more than one visualization.
 - You can clearly document the piece of assessed and cleaned (if necessary) data used to make each analysis and visualization.
